@@ -1,0 +1,10 @@
+# Add things to be ignored in git
+
+# Typically we don't want to upload results files to git, this is what gdrive is for
+rawData
+temp
+data
+
+# Keep autosave files out of git
+*.asv
+~$*

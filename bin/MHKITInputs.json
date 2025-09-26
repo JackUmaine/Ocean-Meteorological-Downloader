@@ -1,0 +1,33 @@
+{
+    "hr3": [
+        "energy_period",
+        "maximum_energy_period",
+        "mean_absolute_period",
+        "mean_zero-crossing_period",
+        "omni-directional_wave_power",
+        "peak_period",
+        "significant_wave_height",
+        "water_depth",
+        "spectral_width",
+        "directionality_coefficient"
+    ],
+    "hr1": [
+        "directional_wave_spectrum",
+        "maximum_energy_direction",
+        "mean_wave_direction",
+        "frequency_bin_edges",
+        "energy_period",
+        "maximum_energy_period",
+        "mean_absolute_period",
+        "mean_zero-crossing_period",
+        "omni-directional_wave_power",
+        "peak_period",
+        "significant_wave_height",
+        "water_depth",
+        "spectral_width",
+        "directionality_coefficient"
+    ],
+    "apiKey": [
+        "TZhbbbvZlVYxdDW9Bbr8MhvTW1W0KUvXmciYd2aJ"
+    ]
+}

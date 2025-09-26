@@ -1,0 +1,41 @@
+{
+    "AtmosphericVariables": [
+        "u10",
+        "v10",
+        "u100",
+        "v100"
+    ],
+    "OceanicVariables": [
+        "hmax",
+        "mwd",
+        "mwp",
+        "swh",
+        "mdts",
+        "mpts",
+        "shts",
+        "mdww",
+        "mpww",
+        "shww",
+        "pp1d",
+        "hmax",
+        "tmax"
+    ],
+    "Key": {
+        "u10": "10m_u_component_of_wind",
+        "v10": "10m_v_component_of_wind",
+        "u100": "100m_u_component_of_wind",
+        "v100": "100m_v_component_of_wind",
+        "hmax": "maximum_individual_wave_height",
+        "mwd": "mean_wave_direction",
+        "mwp": "mean_wave_period",
+        "pp1d": "peak_wave_period",
+        "shts": "significant_height_of_total_swell",
+        "shww": "significant_height_of_wind_waves",
+        "swh": "significant_height_of_combined_wind_waves_and_swell",
+        "tmax": "period_corresponding_to_maximum_individual_wave_height",
+        "mdts": "mean_direction_of_total_swell",
+        "mdww": "mean_direction_of_wind_waves",
+        "mpts": "mean_period_of_total_swell",
+        "mpww": "mean_period_of_wind_waves"
+    }
+}
